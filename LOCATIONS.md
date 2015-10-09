@@ -11,6 +11,7 @@
 - St. Petersburg, Russia ***(Done)***
 - Stockholm, Sweden ***(Done)***
 - New York, USA ***(Done)***
+- Los Angeles, USA ***(Done)***
 - San Francisco, USA ***(Done)***
 - Washington D.C., USA ***(Done)***
 - Cape Town, South Africa
@@ -44,17 +45,18 @@
 
 ##Historical Landmarks
 - Great Wall of China ***(Done)***
+- Forbidden City, China ***(Done)***
 - Meteora, Greece ***(Done)***
+- Parthenon, Greece
 - Bagan, Myanmar ***(Done)***
 - Pyramids of Giza, Egypt
 - Petra, Jordan ***(Done)***
 - Chichen Itza, Mexico ***(Done)***
-- Parthenon, Greece
 - Machu Picchu, Peru ***(Done)***
 - Angkor Wat, Cambodia ***(Done)***
 - Taj Mahal, India
 - St. Basil's Cathedral, Moscow
-- Forbidden City, China ***(Done)***
+- Chateau de Versailles, France
 - *Castles*
     - Neuschwanstein Castle, Germany ***(Done)***
     - Matsumoto Castle, Japan ***(Done)***
