@@ -1,13 +1,20 @@
+html, body {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    margin: 0;
+}
 body { 
     font-family: 'Helvetica Neue', Roboto, sans-serif;
-    background-attachment: fixed;
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-color: #222;
+    background-color: #fff;
     font-size: 16px;
     font-weight: 300;
     line-height: normal;
+}
+body.image_loaded {
+    background-color: #222;
 }
 input {
     background: transparent;
@@ -44,6 +51,17 @@ input:focus::-moz-placeholder {
 }
 
 /* IDs */
+#background_image {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: opacity .6s ease;
+    opacity: 0;
+}
 #top_menu_container {
     position: fixed;
     top: 0;
@@ -122,6 +140,7 @@ input:focus::-moz-placeholder {
     margin: 0 auto 10px auto;
     height: 56px;
     width: 56px;
+    object-fit: cover;
 }
 /* Microsoft tiles with background colors */
 #history_list > li > a > object.ms_tile_color {
